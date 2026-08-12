@@ -66,28 +66,6 @@ integrated-3-statement-financial-model/
 └── README.md
 ```
 
----
-
-## 🖼️ Model Preview
-
-### Model Assumptions
-
-![Model Assumptions](screenshots/04_model_assumptions.png)
-
-### Income Statement
-
-![Income Statement](screenshots/01_income_statement.png)
-
-### Balance Sheet
-
-![Balance Sheet](screenshots/02_balance_sheet.png)
-
-### Cash Flow Statement
-
-![Cash Flow Statement](screenshots/03_cash_flow_statement.png)
-
----
-
 ## 📌 Notes
 
 * Model developed in Microsoft Excel for financial modeling and analysis purposes.
